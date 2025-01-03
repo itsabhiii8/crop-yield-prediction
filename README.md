@@ -26,6 +26,3 @@ Data Preprocessing: Load the dataset and preprocess the data by handling missing
 Model Training: Train machine learning models using the prepared dataset.
 Evaluation: Evaluate models based on accuracy, mean squared error, and other metrics to select the best-performing model.
 Prediction: Use the trained model to predict crop yield for new data inputs.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
